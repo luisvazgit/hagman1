@@ -8,7 +8,9 @@ Items a cumplir para este proyecto:
 - El nombre del archivo de palabras debe ser especificado via parametro de consola (#3)
 
 #1: Formato: {data:[palabra1, palabra2, ..., palabra N]}. Ejemplo: https://www.randomlists.com/data/words.json
+
 #2: python3 hagman.py -i 4 (tendras 4 intentos para adivinar una palabra)
+
 #3: python3 hagman.py -f <nombre_archivo_palabras>
 
 Ejemplo de invocacion:
